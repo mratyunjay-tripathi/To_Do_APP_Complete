@@ -1,0 +1,19 @@
+div {
+    width: 400px;
+    height: 300px;
+    margin-left: auto;
+    margin-right:auto;
+    background-color: hotpink;
+}
+
+p {
+    color: grey;
+    font-size: 20px;
+}
+
+button {
+    color: white;
+    border-radius: 5px;
+    border: 5px solid aquamarine;
+    font-size: 25px;
+}
